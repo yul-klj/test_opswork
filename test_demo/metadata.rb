@@ -5,7 +5,7 @@ license 'All Rights Reserved'
 description 'Installs/Configures test_demo'
 long_description 'Installs/Configures test_demo'
 version '0.1.0'
-chef_version '>= 13.0'
+chef_version '>= 12.0'
 depends 'sc-mongodb', '~> 1.2.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
