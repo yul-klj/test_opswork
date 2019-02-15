@@ -9,6 +9,8 @@
 
   },
   "dependencies": {
+    "seven_zip": "~> 2.0.2",
+    "windows": "~> 4.3.4",
     "sc-mongodb": "~> 1.2.0"
   },
   "providing": {

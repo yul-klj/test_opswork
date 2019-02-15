@@ -6,6 +6,8 @@ description 'Installs/Configures test_demo'
 long_description 'Installs/Configures test_demo'
 version '0.1.0'
 chef_version '>= 12.0'
+depends 'seven_zip', '~>2.0.2'
+depends 'windows', '~>4.3.4'
 depends 'sc-mongodb', '~> 1.2.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
