@@ -1,3 +1,4 @@
 gem "kitchen"
 gem "kitchen-vagrant"
 gem "berkshelf"
+gem "test-kitchen"

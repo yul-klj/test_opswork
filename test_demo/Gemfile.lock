@@ -213,6 +213,7 @@ DEPENDENCIES
   berkshelf
   kitchen
   kitchen-vagrant
+  test-kitchen
 
 BUNDLED WITH
    2.0.1
